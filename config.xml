@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "scratchpadv3.happyb123.edu.mit.scratch"
+        versionCode = "10" 
+        version     = "1.0.0" >
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>ScratchPadv3</name>
+
+    <description>
+        Ann app made using Scratch, Phonegap, github, and PhoneGap
+    </description>
+
+    <author href="http://scratch.mit.edu/users/happyb123" email="miceento@gmail.com">
+        happyb123
+    </author>
+
+</widget>
